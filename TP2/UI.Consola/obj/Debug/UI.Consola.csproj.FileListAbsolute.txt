@@ -1,0 +1,12 @@
+C:\Users\PASTOR\Desktop\Workspaces\CSharp\TP2\UI.Consola\bin\Debug\UI.Consola.exe.config
+C:\Users\PASTOR\Desktop\Workspaces\CSharp\TP2\UI.Consola\obj\Debug\UI.Consola.csprojResolveAssemblyReference.cache
+C:\Users\PASTOR\Desktop\Workspaces\CSharp\TP2\UI.Consola\bin\Debug\UI.Consola.exe
+C:\Users\PASTOR\Desktop\Workspaces\CSharp\TP2\UI.Consola\bin\Debug\UI.Consola.pdb
+C:\Users\PASTOR\Desktop\Workspaces\CSharp\TP2\UI.Consola\bin\Debug\Business.Entities.dll
+C:\Users\PASTOR\Desktop\Workspaces\CSharp\TP2\UI.Consola\bin\Debug\Negocio.dll
+C:\Users\PASTOR\Desktop\Workspaces\CSharp\TP2\UI.Consola\bin\Debug\Data.Database.dll
+C:\Users\PASTOR\Desktop\Workspaces\CSharp\TP2\UI.Consola\bin\Debug\Business.Entities.pdb
+C:\Users\PASTOR\Desktop\Workspaces\CSharp\TP2\UI.Consola\bin\Debug\Negocio.pdb
+C:\Users\PASTOR\Desktop\Workspaces\CSharp\TP2\UI.Consola\bin\Debug\Data.Database.pdb
+C:\Users\PASTOR\Desktop\Workspaces\CSharp\TP2\UI.Consola\obj\Debug\UI.Consola.exe
+C:\Users\PASTOR\Desktop\Workspaces\CSharp\TP2\UI.Consola\obj\Debug\UI.Consola.pdb
